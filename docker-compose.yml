@@ -1,6 +1,6 @@
 services:
-  Snake_game:
+  snake-game:
     build: .
-    container_name: Snake_game-container
+    container_name: snake-game-container
     ports:
       - "80:80"
